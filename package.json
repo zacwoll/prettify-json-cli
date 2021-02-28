@@ -1,8 +1,9 @@
 {
-  "name": "json-parser-app",
-  "version": "0.1",
+  "name": "prettify-json-cli",
+  "version": "1.0",
   "description": "A program to prettify json",
   "main": "bin/index.js",
+  "repository": "https://github.com/zacwoll/prettify-json-cli",
   "author": "Zac Woll",
   "license": "MIT",
   "bin": {
