@@ -1,0 +1,11 @@
+{
+  "name": "json-parser-app",
+  "version": "0.1",
+  "description": "A program to prettify json",
+  "main": "bin/index.js",
+  "author": "Zac Woll",
+  "license": "MIT",
+  "bin": {
+    "pretty": "./bin/index.js"
+  }
+}
